@@ -1,7 +1,15 @@
 💬 Ask me about Frontend Development
+
+
 🚀My Portfolio Website www.mudassirkhan.tech
+
+
 🌱 I have completed my Bachelor's Degree in Electrical Engineering.
+
+
 📫 How to reach me: mudassir@shipthis.co
+
+
 😄 Pronouns: He/His
 
 <!---
