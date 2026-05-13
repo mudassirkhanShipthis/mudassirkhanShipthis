@@ -3,23 +3,20 @@
 <div style="text-align: center;">
   <img align="rignt" alt="coding" width="30" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif">
 </div>
-💬 Ask me about Frontend Development
 
 
-🚀My Portfolio Website www.mudassirkhan.tech
 
+🚀My Portfolio Website www.mudassirkhan.vercel.app
 
-🌱 I have completed my Bachelor's Degree in Electrical Engineering.
 
 
 📫 How to reach me: mudassir@shipthis.co
 
 
-😄 Pronouns: He/His
 
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_phenomenal_222001) 
+
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudassir-khan-522303233) 
 
 
